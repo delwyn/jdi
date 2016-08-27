@@ -4,6 +4,14 @@
 [![GitHub version](https://img.shields.io/github/tag/alexanderGugel/jdi.svg)](https://github.com/alexanderGugel/jdi)
 [![npm version](https://img.shields.io/npm/v/jdi.svg)](https://www.npmjs.com/package/jdi)
 
+## JDI - Write documentation like you mean it!
+
+### Inspired by Captain Morgan aka Hans Gugel Alexander the 3rd
+
+![Demo 1](./assets/captain-hans.jpeg)
+
+
+
 **jdi** is a documentation generator for JavaScript. You give it some source
 files (e.g. via `jdi index.js`) and it generates corresponding `.md` files from
 your comments (e.g `index.js.md`).
